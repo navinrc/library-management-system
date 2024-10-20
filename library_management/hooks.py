@@ -2,7 +2,7 @@ app_name = "library_management"
 app_title = "Library Management"
 app_publisher = "Navin R C"
 app_description = "Library Management System"
-app_email = "navin@lib.com"
+app_email = "navin@lib.co.in"
 app_license = "mit"
 
 # Apps
