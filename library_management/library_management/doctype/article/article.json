@@ -66,7 +66,7 @@
  "image_field": "image",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-21 20:57:14.483697",
+ "modified": "2024-11-12 13:00:44.899223",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Article",
@@ -109,8 +109,11 @@
  ],
  "quick_entry": 1,
  "route": "articles",
+ "search_fields": "article_name,author,publisher",
+ "show_title_field_in_link": 1,
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [],
+ "title_field": "article_name",
  "track_changes": 1
 }
